@@ -25,17 +25,17 @@ Real-world data is almost never ready to use right away, and this dataset had a 
 ## What did I find?
 
 ### 1. Smoking is going down globally
-![Prevalence trend](charts/prevalence_trend.png)
+![Prevalence trend](prevalence_trend.png)
 
 Looking at the average across all countries, the percentage of people who smoke cigarettes has been slowly decreasing from 2008 to 2014. That's a good sign for public health.
 
 ### 2. Stricter rules don't always mean fewer smokers
-![Regulation vs prevalence](charts/regulation_vs_prevalence.png)
+![Regulation vs prevalence](regulation_vs_prevalence.png)
 
 This was the most surprising part. I expected that countries with the strictest smoking bans would automatically have the fewest smokers — but the data shows this isn't strongly true. Some countries with very strong smoke-free rules (like Spain, Germany, and Hungary) still had a high percentage of smokers. This suggests that rules alone aren't the full story — things like culture, how well rules are actually enforced, and how addictive smoking already is in a population probably matter just as much.
 
 ### 3. Smoking rates vary a lot country to country
-![Distribution](charts/prevalence_distribution.png)
+![Distribution](prevalence_distribution.png)
 
 There's no single "typical" smoking rate — some countries have very few smokers, others have very high percentages, and there's a wide range in between.
 
